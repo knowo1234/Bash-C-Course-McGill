@@ -1,0 +1,59 @@
+commit c74c1070066066d358860e061a106f3fb9e091cb
+Author: Nicholas NOWOSIELSKI <nnowos@teaching.CS.McGill.CA>
+Date:   Mon Apr 6 19:25:39 2020 -0400
+
+    final
+
+commit 1957ecd6c0c6ef211739d852b23143b1ebba0175
+Author: Nicholas NOWOSIELSKI <nnowos@teaching.CS.McGill.CA>
+Date:   Mon Apr 6 17:47:20 2020 -0400
+
+    this might be almost the final version
+
+commit fc9deda6d555af4a9b5dcacb5d7d869e6de11f59
+Author: Nicholas NOWOSIELSKI <nnowos@teaching.CS.McGill.CA>
+Date:   Mon Apr 6 17:13:55 2020 -0400
+
+    getting close to finishing debugging
+
+commit 947bbfad80003dfd0f640853a5d7ffe076141f9e
+Author: Nicholas NOWOSIELSKI <nnowos@teaching.CS.McGill.CA>
+Date:   Sun Apr 5 20:14:41 2020 -0400
+
+    done for the day
+
+commit 58e97a6f0eab58c49e5e9a2beb641100898ee254
+Author: Nicholas NOWOSIELSKI <nnowos@teaching.CS.McGill.CA>
+Date:   Sun Apr 5 19:53:56 2020 -0400
+
+    first time getting now errors
+
+commit 1335b464cacab1e9918e6545098aa26faae55dd3
+Author: Nicholas NOWOSIELSKI <nnowos@teaching.CS.McGill.CA>
+Date:   Sun Apr 5 18:37:07 2020 -0400
+
+    final (i hope ) copy
+
+commit a87bd571ccbfee8844821e82a213a37bce4806e5
+Author: Nicholas NOWOSIELSKI <nnowos@teaching.CS.McGill.CA>
+Date:   Sun Apr 5 17:43:20 2020 -0400
+
+    completed stufff until step 9 of assignment instrucitons
+
+commit b35fcf63de543aa88e72ba5559fe92ba3009084e
+Author: Nicholas NOWOSIELSKI <nnowos@teaching.CS.McGill.CA>
+Date:   Sat Apr 4 16:13:14 2020 -0400
+
+    just some minor revisions
+
+commit e6dcf0628cdca863a3cb0624cd564004bf3ab84f
+Author: Nicholas NOWOSIELSKI <nnowos@teaching.CS.McGill.CA>
+Date:   Fri Apr 3 15:16:38 2020 -0400
+
+    wrote some new functions in the util file
+
+commit d03805d1c7c2c6e5813d56cf54ff42ed178c76e1
+Author: Nicholas NOWOSIELSKI <nnowos@teaching.CS.McGill.CA>
+Date:   Fri Apr 3 14:37:20 2020 -0400
+
+    created the files
